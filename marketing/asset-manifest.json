@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bigdata/marketing/static/css/main.5b39bbe0.chunk.css",
-    "main.js": "/bigdata/marketing/static/js/main.51fe9048.chunk.js",
-    "main.js.map": "/bigdata/marketing/static/js/main.51fe9048.chunk.js.map",
+    "main.js": "/bigdata/marketing/static/js/main.534fa4fa.chunk.js",
+    "main.js.map": "/bigdata/marketing/static/js/main.534fa4fa.chunk.js.map",
     "runtime-main.js": "/bigdata/marketing/static/js/runtime-main.db90abb5.js",
     "runtime-main.js.map": "/bigdata/marketing/static/js/runtime-main.db90abb5.js.map",
     "static/css/2.f4fa1502.chunk.css": "/bigdata/marketing/static/css/2.f4fa1502.chunk.css",
@@ -48,6 +48,6 @@
     "static/css/2.f4fa1502.chunk.css",
     "static/js/2.887f78fe.chunk.js",
     "static/css/main.5b39bbe0.chunk.css",
-    "static/js/main.51fe9048.chunk.js"
+    "static/js/main.534fa4fa.chunk.js"
   ]
 }

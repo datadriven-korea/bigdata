@@ -1,30 +1,25 @@
 {
   "files": {
     "main.css": "/bigdata/clustering/static/css/main.e84ec124.chunk.css",
-    "main.js": "/bigdata/clustering/static/js/main.b550a59e.chunk.js",
-    "main.js.map": "/bigdata/clustering/static/js/main.b550a59e.chunk.js.map",
+    "main.js": "/bigdata/clustering/static/js/main.4530e023.chunk.js",
+    "main.js.map": "/bigdata/clustering/static/js/main.4530e023.chunk.js.map",
     "runtime-main.js": "/bigdata/clustering/static/js/runtime-main.7bb4e46c.js",
     "runtime-main.js.map": "/bigdata/clustering/static/js/runtime-main.7bb4e46c.js.map",
-    "static/js/2.412e2423.chunk.js": "/bigdata/clustering/static/js/2.412e2423.chunk.js",
-    "static/js/2.412e2423.chunk.js.map": "/bigdata/clustering/static/js/2.412e2423.chunk.js.map",
+    "static/js/2.3868ce5a.chunk.js": "/bigdata/clustering/static/js/2.3868ce5a.chunk.js",
+    "static/js/2.3868ce5a.chunk.js.map": "/bigdata/clustering/static/js/2.3868ce5a.chunk.js.map",
     "static/js/3.896c52f0.chunk.js": "/bigdata/clustering/static/js/3.896c52f0.chunk.js",
     "static/js/3.896c52f0.chunk.js.map": "/bigdata/clustering/static/js/3.896c52f0.chunk.js.map",
     "index.html": "/bigdata/clustering/index.html",
     "static/css/main.e84ec124.chunk.css.map": "/bigdata/clustering/static/css/main.e84ec124.chunk.css.map",
-    "static/js/2.412e2423.chunk.js.LICENSE.txt": "/bigdata/clustering/static/js/2.412e2423.chunk.js.LICENSE.txt",
+    "static/js/2.3868ce5a.chunk.js.LICENSE.txt": "/bigdata/clustering/static/js/2.3868ce5a.chunk.js.LICENSE.txt",
     "static/media/index.css": "/bigdata/clustering/static/media/score6.8824e1a4.eot",
     "static/media/book_robot.8d8037f3.png": "/bigdata/clustering/static/media/book_robot.8d8037f3.png",
     "static/media/chat_bini.52414c03.png": "/bigdata/clustering/static/media/chat_bini.52414c03.png",
     "static/media/chat_robot.a1c5fb46.png": "/bigdata/clustering/static/media/chat_robot.a1c5fb46.png",
     "static/media/crowd.f39f1c77.gif": "/bigdata/clustering/static/media/crowd.f39f1c77.gif",
     "static/media/dice.dc2d5760.gif": "/bigdata/clustering/static/media/dice.dc2d5760.gif",
-    "static/media/dimension.d947755c.png": "/bigdata/clustering/static/media/dimension.d947755c.png",
+    "static/media/dimension.2e474c81.gif": "/bigdata/clustering/static/media/dimension.2e474c81.gif",
     "static/media/graph_all.6518c0ad.png": "/bigdata/clustering/static/media/graph_all.6518c0ad.png",
-    "static/media/graph_blue.1a6a83e6.png": "/bigdata/clustering/static/media/graph_blue.1a6a83e6.png",
-    "static/media/graph_green.3f5d2e7c.png": "/bigdata/clustering/static/media/graph_green.3f5d2e7c.png",
-    "static/media/graph_orange.0ad5b2e5.png": "/bigdata/clustering/static/media/graph_orange.0ad5b2e5.png",
-    "static/media/graph_red.fd687b4f.png": "/bigdata/clustering/static/media/graph_red.fd687b4f.png",
-    "static/media/graph_yellow.9abfc75c.png": "/bigdata/clustering/static/media/graph_yellow.9abfc75c.png",
     "static/media/k_means_video.6dbee57d.mp4": "/bigdata/clustering/static/media/k_means_video.6dbee57d.mp4",
     "static/media/messenger.6eca1857.mp3": "/bigdata/clustering/static/media/messenger.6eca1857.mp3",
     "static/media/messy.09f7abb3.gif": "/bigdata/clustering/static/media/messy.09f7abb3.gif",
@@ -32,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7bb4e46c.js",
-    "static/js/2.412e2423.chunk.js",
+    "static/js/2.3868ce5a.chunk.js",
     "static/css/main.e84ec124.chunk.css",
-    "static/js/main.b550a59e.chunk.js"
+    "static/js/main.4530e023.chunk.js"
   ]
 }

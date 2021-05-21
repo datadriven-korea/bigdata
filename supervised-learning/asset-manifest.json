@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/bigdata/supervised-learning/static/css/main.df87a162.chunk.css",
-    "main.js": "/bigdata/supervised-learning/static/js/main.73e07de6.chunk.js",
-    "main.js.map": "/bigdata/supervised-learning/static/js/main.73e07de6.chunk.js.map",
-    "runtime-main.js": "/bigdata/supervised-learning/static/js/runtime-main.4f0643ca.js",
-    "runtime-main.js.map": "/bigdata/supervised-learning/static/js/runtime-main.4f0643ca.js.map",
-    "static/js/2.adf9fec7.chunk.js": "/bigdata/supervised-learning/static/js/2.adf9fec7.chunk.js",
-    "static/js/2.adf9fec7.chunk.js.map": "/bigdata/supervised-learning/static/js/2.adf9fec7.chunk.js.map",
-    "static/js/3.09c393bb.chunk.js": "/bigdata/supervised-learning/static/js/3.09c393bb.chunk.js",
-    "static/js/3.09c393bb.chunk.js.map": "/bigdata/supervised-learning/static/js/3.09c393bb.chunk.js.map",
+    "main.js": "/bigdata/supervised-learning/static/js/main.16a5c0ad.chunk.js",
+    "main.js.map": "/bigdata/supervised-learning/static/js/main.16a5c0ad.chunk.js.map",
+    "runtime-main.js": "/bigdata/supervised-learning/static/js/runtime-main.54d1a391.js",
+    "runtime-main.js.map": "/bigdata/supervised-learning/static/js/runtime-main.54d1a391.js.map",
+    "static/js/2.11fd8161.chunk.js": "/bigdata/supervised-learning/static/js/2.11fd8161.chunk.js",
+    "static/js/2.11fd8161.chunk.js.map": "/bigdata/supervised-learning/static/js/2.11fd8161.chunk.js.map",
+    "static/js/3.7c9a43ab.chunk.js": "/bigdata/supervised-learning/static/js/3.7c9a43ab.chunk.js",
+    "static/js/3.7c9a43ab.chunk.js.map": "/bigdata/supervised-learning/static/js/3.7c9a43ab.chunk.js.map",
     "index.html": "/bigdata/supervised-learning/index.html",
     "static/css/main.df87a162.chunk.css.map": "/bigdata/supervised-learning/static/css/main.df87a162.chunk.css.map",
-    "static/js/2.adf9fec7.chunk.js.LICENSE.txt": "/bigdata/supervised-learning/static/js/2.adf9fec7.chunk.js.LICENSE.txt",
+    "static/js/2.11fd8161.chunk.js.LICENSE.txt": "/bigdata/supervised-learning/static/js/2.11fd8161.chunk.js.LICENSE.txt",
     "static/media/index.css": "/bigdata/supervised-learning/static/media/score6.8824e1a4.eot",
     "static/media/airfresh.cbff3c6b.gif": "/bigdata/supervised-learning/static/media/airfresh.cbff3c6b.gif",
     "static/media/circle_bini.ece9431e.png": "/bigdata/supervised-learning/static/media/circle_bini.ece9431e.png",
@@ -30,9 +30,9 @@
     "static/media/plant3.e6405ad6.jpg": "/bigdata/supervised-learning/static/media/plant3.e6405ad6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f0643ca.js",
-    "static/js/2.adf9fec7.chunk.js",
+    "static/js/runtime-main.54d1a391.js",
+    "static/js/2.11fd8161.chunk.js",
     "static/css/main.df87a162.chunk.css",
-    "static/js/main.73e07de6.chunk.js"
+    "static/js/main.16a5c0ad.chunk.js"
   ]
 }

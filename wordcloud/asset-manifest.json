@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/bigdata/wordcloud/static/css/main.35bc8c08.chunk.css",
-    "main.js": "/bigdata/wordcloud/static/js/main.501110fd.chunk.js",
-    "main.js.map": "/bigdata/wordcloud/static/js/main.501110fd.chunk.js.map",
-    "runtime-main.js": "/bigdata/wordcloud/static/js/runtime-main.72c73fbc.js",
-    "runtime-main.js.map": "/bigdata/wordcloud/static/js/runtime-main.72c73fbc.js.map",
-    "static/js/2.27c91df0.chunk.js": "/bigdata/wordcloud/static/js/2.27c91df0.chunk.js",
-    "static/js/2.27c91df0.chunk.js.map": "/bigdata/wordcloud/static/js/2.27c91df0.chunk.js.map",
-    "static/js/3.a733103b.chunk.js": "/bigdata/wordcloud/static/js/3.a733103b.chunk.js",
-    "static/js/3.a733103b.chunk.js.map": "/bigdata/wordcloud/static/js/3.a733103b.chunk.js.map",
+    "main.js": "/bigdata/wordcloud/static/js/main.9e5bacc6.chunk.js",
+    "main.js.map": "/bigdata/wordcloud/static/js/main.9e5bacc6.chunk.js.map",
+    "runtime-main.js": "/bigdata/wordcloud/static/js/runtime-main.dffe0f6a.js",
+    "runtime-main.js.map": "/bigdata/wordcloud/static/js/runtime-main.dffe0f6a.js.map",
+    "static/js/2.93ad5629.chunk.js": "/bigdata/wordcloud/static/js/2.93ad5629.chunk.js",
+    "static/js/2.93ad5629.chunk.js.map": "/bigdata/wordcloud/static/js/2.93ad5629.chunk.js.map",
+    "static/js/3.fa84499c.chunk.js": "/bigdata/wordcloud/static/js/3.fa84499c.chunk.js",
+    "static/js/3.fa84499c.chunk.js.map": "/bigdata/wordcloud/static/js/3.fa84499c.chunk.js.map",
     "index.html": "/bigdata/wordcloud/index.html",
     "static/css/main.35bc8c08.chunk.css.map": "/bigdata/wordcloud/static/css/main.35bc8c08.chunk.css.map",
-    "static/js/2.27c91df0.chunk.js.LICENSE.txt": "/bigdata/wordcloud/static/js/2.27c91df0.chunk.js.LICENSE.txt",
+    "static/js/2.93ad5629.chunk.js.LICENSE.txt": "/bigdata/wordcloud/static/js/2.93ad5629.chunk.js.LICENSE.txt",
     "static/media/index.css": "/bigdata/wordcloud/static/media/score6.8824e1a4.eot",
     "static/media/bird.e317478a.png": "/bigdata/wordcloud/static/media/bird.e317478a.png",
     "static/media/circle_bini.ece9431e.png": "/bigdata/wordcloud/static/media/circle_bini.ece9431e.png",
@@ -68,9 +68,9 @@
     "static/media/turtle.3113e179.png": "/bigdata/wordcloud/static/media/turtle.3113e179.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.72c73fbc.js",
-    "static/js/2.27c91df0.chunk.js",
+    "static/js/runtime-main.dffe0f6a.js",
+    "static/js/2.93ad5629.chunk.js",
     "static/css/main.35bc8c08.chunk.css",
-    "static/js/main.501110fd.chunk.js"
+    "static/js/main.9e5bacc6.chunk.js"
   ]
 }

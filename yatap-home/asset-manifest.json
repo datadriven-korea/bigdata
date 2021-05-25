@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bigdata/yatap-home/static/css/main.e0dbe408.chunk.css",
+    "main.js": "/bigdata/yatap-home/static/js/main.15acfdbe.chunk.js",
+    "main.js.map": "/bigdata/yatap-home/static/js/main.15acfdbe.chunk.js.map",
+    "runtime-main.js": "/bigdata/yatap-home/static/js/runtime-main.be8ba938.js",
+    "runtime-main.js.map": "/bigdata/yatap-home/static/js/runtime-main.be8ba938.js.map",
+    "static/js/2.0e849129.chunk.js": "/bigdata/yatap-home/static/js/2.0e849129.chunk.js",
+    "static/js/2.0e849129.chunk.js.map": "/bigdata/yatap-home/static/js/2.0e849129.chunk.js.map",
+    "static/js/3.3a91caa2.chunk.js": "/bigdata/yatap-home/static/js/3.3a91caa2.chunk.js",
+    "static/js/3.3a91caa2.chunk.js.map": "/bigdata/yatap-home/static/js/3.3a91caa2.chunk.js.map",
+    "index.html": "/bigdata/yatap-home/index.html",
+    "static/css/main.e0dbe408.chunk.css.map": "/bigdata/yatap-home/static/css/main.e0dbe408.chunk.css.map",
+    "static/js/2.0e849129.chunk.js.LICENSE.txt": "/bigdata/yatap-home/static/js/2.0e849129.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/bigdata/yatap-home/static/media/score6.8824e1a4.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be8ba938.js",
+    "static/js/2.0e849129.chunk.js",
+    "static/css/main.e0dbe408.chunk.css",
+    "static/js/main.15acfdbe.chunk.js"
+  ]
+}

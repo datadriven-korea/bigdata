@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bigdata/supervised-learning/static/css/main.df87a162.chunk.css",
-    "main.js": "/bigdata/supervised-learning/static/js/main.d5b34fb6.chunk.js",
-    "main.js.map": "/bigdata/supervised-learning/static/js/main.d5b34fb6.chunk.js.map",
+    "main.js": "/bigdata/supervised-learning/static/js/main.eb413da0.chunk.js",
+    "main.js.map": "/bigdata/supervised-learning/static/js/main.eb413da0.chunk.js.map",
     "runtime-main.js": "/bigdata/supervised-learning/static/js/runtime-main.936a06e3.js",
     "runtime-main.js.map": "/bigdata/supervised-learning/static/js/runtime-main.936a06e3.js.map",
     "static/js/2.cd1715a0.chunk.js": "/bigdata/supervised-learning/static/js/2.cd1715a0.chunk.js",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.936a06e3.js",
     "static/js/2.cd1715a0.chunk.js",
     "static/css/main.df87a162.chunk.css",
-    "static/js/main.d5b34fb6.chunk.js"
+    "static/js/main.eb413da0.chunk.js"
   ]
 }

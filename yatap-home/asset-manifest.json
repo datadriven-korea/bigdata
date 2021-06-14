@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/bigdata/yatap-home/static/css/main.e0dbe408.chunk.css",
-    "main.js": "/bigdata/yatap-home/static/js/main.41806f1b.chunk.js",
-    "main.js.map": "/bigdata/yatap-home/static/js/main.41806f1b.chunk.js.map",
+    "main.js": "/bigdata/yatap-home/static/js/main.859d40a2.chunk.js",
+    "main.js.map": "/bigdata/yatap-home/static/js/main.859d40a2.chunk.js.map",
     "runtime-main.js": "/bigdata/yatap-home/static/js/runtime-main.2cf9e4fa.js",
     "runtime-main.js.map": "/bigdata/yatap-home/static/js/runtime-main.2cf9e4fa.js.map",
-    "static/js/2.c4356e9b.chunk.js": "/bigdata/yatap-home/static/js/2.c4356e9b.chunk.js",
-    "static/js/2.c4356e9b.chunk.js.map": "/bigdata/yatap-home/static/js/2.c4356e9b.chunk.js.map",
+    "static/js/2.aac7eee7.chunk.js": "/bigdata/yatap-home/static/js/2.aac7eee7.chunk.js",
+    "static/js/2.aac7eee7.chunk.js.map": "/bigdata/yatap-home/static/js/2.aac7eee7.chunk.js.map",
     "static/js/3.a18b6f87.chunk.js": "/bigdata/yatap-home/static/js/3.a18b6f87.chunk.js",
     "static/js/3.a18b6f87.chunk.js.map": "/bigdata/yatap-home/static/js/3.a18b6f87.chunk.js.map",
     "index.html": "/bigdata/yatap-home/index.html",
     "static/css/main.e0dbe408.chunk.css.map": "/bigdata/yatap-home/static/css/main.e0dbe408.chunk.css.map",
-    "static/js/2.c4356e9b.chunk.js.LICENSE.txt": "/bigdata/yatap-home/static/js/2.c4356e9b.chunk.js.LICENSE.txt",
+    "static/js/2.aac7eee7.chunk.js.LICENSE.txt": "/bigdata/yatap-home/static/js/2.aac7eee7.chunk.js.LICENSE.txt",
     "static/media/index.css": "/bigdata/yatap-home/static/media/score6.8824e1a4.eot"
   },
   "entrypoints": [
     "static/js/runtime-main.2cf9e4fa.js",
-    "static/js/2.c4356e9b.chunk.js",
+    "static/js/2.aac7eee7.chunk.js",
     "static/css/main.e0dbe408.chunk.css",
-    "static/js/main.41806f1b.chunk.js"
+    "static/js/main.859d40a2.chunk.js"
   ]
 }
